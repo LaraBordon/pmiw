@@ -1,6 +1,7 @@
 //Lara Bordon y Florencia Pilatti Gelati
 //comision 1
-//https://youtu.be/NCYwrr5-384
+//https://youtu.be/BmWFfCvkDBM
+
 let imagenes=[];
 let texto=[];
 let click=0;
@@ -240,3 +241,4 @@ function boto3(pos1, pos2, ta, tab, tex) {
 function press(posx, posy, taman, tamal) {
   return mouseX>posx && mouseX<posx+taman && mouseY>posy && mouseY<posy+tamal;
 }
+
